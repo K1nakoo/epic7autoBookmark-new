@@ -4,6 +4,7 @@
 
 [GitHub - steven010116/epic7autoBookmark: 第七史詩刷商店的小工具](https://github.com/steven010116/epic7autoBookmark)
 
+感谢大佬的代码，现接手修改后开源
 
 
 ## 一、环境
